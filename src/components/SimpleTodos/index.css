@@ -1,0 +1,19 @@
+.bg_main {
+  background-color: #ffc2a0;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Sub_bg {
+  background-color: #ffffff;
+  height: 80vh;
+  width: 80vw;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
